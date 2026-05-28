@@ -6,13 +6,590 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1,Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
-http://rteomi.xyz:80/0118689/3451067/804868
-#EXTINF:-1 group-title="Canais",24H Filmes Drama
-http://rteomi.xyz/live/0118689/3451067/808764.ts
-#EXTINF:-1 group-title="Canais",24H Filmes Lancamentos
-http://rteomi.xyz/live/0118689/3451067/808767.ts
-#EXTINF:-1 group-title="Canais",24H Filmes Romance
-http://rteomi.xyz/live/0118689/3451067/808765.ts
-#EXTINF:-1 group-title="Canais",24H Filmes Suspense
-http://rteomi.xyz/live/0118689/3451067/808766.ts
+#EXTM3U
+
+#EXTINF:-1 group-title="Filmes",24H Filmes Drama
+http://rteomi.xyz:80/0118689/3451067/808764
+
+#EXTINF:-1 group-title="Filmes",24H Filmes Romance
+http://rteomi.xyz:80/0118689/3451067/808765
+
+#EXTINF:-1 group-title="Filmes",24H Filmes Suspense
+http://rteomi.xyz:80/0118689/3451067/808766
+
+#EXTINF:-1 group-title="Filmes",London Fields: Romance Fatal (2018)
+http://rteomi.xyz:80/movie/0118689/3451067/1174711.mp4
+
+#EXTINF:-1 group-title="Filmes",Páginas de um Romance 2 (2016)
+http://rteomi.xyz:80/movie/0118689/3451067/1202691.mp4
+
+#EXTINF:-1 group-title="Filmes",Reforma com Romance (2024)
+http://rteomi.xyz:80/movie/0118689/3451067/1431535.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance (2008)
+http://rteomi.xyz:80/movie/0118689/3451067/1445195.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance da Empregada (1988)
+http://rteomi.xyz:80/movie/0118689/3451067/1215236.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance e Cigarros (2005)
+http://rteomi.xyz:80/movie/0118689/3451067/1188992.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance na Ficção (2023)
+http://rteomi.xyz:80/movie/0118689/3451067/1448048.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance nas Alturas (2020)
+http://rteomi.xyz:80/movie/0118689/3451067/1165768.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance no Ar: Uma Garota Apaixonada (2024)
+http://rteomi.xyz:80/movie/0118689/3451067/1164644.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Real na Estrada (2022)
+http://rteomi.xyz:80/movie/0118689/3451067/1445170.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance à la Carte (2020)
+http://rteomi.xyz:80/movie/0118689/3451067/1432845.mp4
+
+#EXTINF:-1 group-title="Filmes",Um Romance nas Entrelinhas (2019)
+http://rteomi.xyz:80/movie/0118689/3451067/1202982.mp4
+
+#EXTINF:-1 group-title="Filmes",Um Romance Perfeito (2022)
+http://rteomi.xyz:80/movie/0118689/3451067/1165028.mp4
+
+#EXTINF:-1 group-title="Filmes",Verão: A Summer Romance (2019)
+http://rteomi.xyz:80/movie/0118689/3451067/1165258.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1328647.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1328648.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1328649.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1328650.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1328651.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1328652.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1328653.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1328654.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1328655.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1328656.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor como um Romance Coreano S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1328657.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1283143.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1283144.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1283145.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1283146.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1283147.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1283148.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1283149.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1283150.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1283151.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1283152.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1283153.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1283154.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1283155.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E14
+http://rteomi.xyz:80/series/0118689/3451067/1283156.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E15
+http://rteomi.xyz:80/series/0118689/3451067/1283157.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E16
+http://rteomi.xyz:80/series/0118689/3451067/1283158.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E17
+http://rteomi.xyz:80/series/0118689/3451067/1283159.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E18
+http://rteomi.xyz:80/series/0118689/3451067/1283160.mp4
+
+#EXTINF:-1 group-title="Filmes",Amor e Outros Dramas S01E19
+http://rteomi.xyz:80/series/0118689/3451067/1283161.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1360996.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1360997.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1360998.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1360999.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1361000.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1361001.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1361002.mp4
+
+#EXTINF:-1 group-title="Filmes",Escola dos Romances Proibidos S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1361003.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1347043.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1347044.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1347045.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1347046.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1347047.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1347048.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1347049.mp4
+
+#EXTINF:-1 group-title="Filmes",Happy Ending Romance [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1347050.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1386952.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1386953.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1386954.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1386955.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1386956.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1386957.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1386958.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1386959.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1386960.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1386961.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1386962.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1386963.mp4
+
+#EXTINF:-1 group-title="Filmes",KOWLOON GENERIC ROMANCE [L] S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1386964.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1367390.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1367391.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1367392.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1367393.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1367394.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1367395.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1367396.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1367397.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1367398.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1367399.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1367400.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Excentrico [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1367401.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1235729.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1235730.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1235731.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1235732.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1235733.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1235734.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1235735.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1235736.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1235737.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1235738.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1235739.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1235740.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1235741.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E14
+http://rteomi.xyz:80/series/0118689/3451067/1235742.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E15
+http://rteomi.xyz:80/series/0118689/3451067/1235743.mp4
+
+#EXTINF:-1 group-title="Filmes",Romance Is A Bonus Book [L] S01E16
+http://rteomi.xyz:80/series/0118689/3451067/1235744.mp4
+
+#EXTINF:-1 group-title="Filmes",Romanceiro S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1323990.mp4
+
+#EXTINF:-1 group-title="Filmes",Romanceiro S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1323991.mp4
+
+#EXTINF:-1 group-title="Filmes",Romanceiro S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1323992.mp4
+
+#EXTINF:-1 group-title="Filmes",Romanceiro S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1323993.mp4
+
+#EXTINF:-1 group-title="Filmes",Romanceiro S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1323994.mp4
+
+#EXTINF:-1 group-title="Filmes",Romanceiro S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1323995.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1430154.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1430155.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1430156.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1430157.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1430158.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1430159.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1430160.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1430161.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1430162.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1430163.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1430164.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1430165.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1430166.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E14
+http://rteomi.xyz:80/series/0118689/3451067/1430167.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E15
+http://rteomi.xyz:80/series/0118689/3451067/1430168.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E16
+http://rteomi.xyz:80/series/0118689/3451067/1430169.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E17
+http://rteomi.xyz:80/series/0118689/3451067/1430170.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E18
+http://rteomi.xyz:80/series/0118689/3451067/1430171.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E19
+http://rteomi.xyz:80/series/0118689/3451067/1430172.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E20
+http://rteomi.xyz:80/series/0118689/3451067/1430173.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E21
+http://rteomi.xyz:80/series/0118689/3451067/1430174.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E22
+http://rteomi.xyz:80/series/0118689/3451067/1430175.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E23
+http://rteomi.xyz:80/series/0118689/3451067/1430176.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E24
+http://rteomi.xyz:80/series/0118689/3451067/1430177.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E25
+http://rteomi.xyz:80/series/0118689/3451067/1430178.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E26
+http://rteomi.xyz:80/series/0118689/3451067/1431774.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E27
+http://rteomi.xyz:80/series/0118689/3451067/1431775.mp4
+
+#EXTINF:-1 group-title="Filmes",Second Chance Romance [L] S01E28
+http://rteomi.xyz:80/series/0118689/3451067/1431776.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1350913.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1417381.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1417382.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1350914.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1350915.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1417383.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1350916.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1417384.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1350917.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1417385.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1417386.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1350918.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1350919.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1417387.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1350920.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1417388.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1417389.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1350921.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1417390.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1350922.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1350923.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1417391.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1350924.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1417392.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1417393.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1350925.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E14
+http://rteomi.xyz:80/series/0118689/3451067/1350926.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E15
+http://rteomi.xyz:80/series/0118689/3451067/1350927.mp4
+
+#EXTINF:-1 group-title="Filmes",The Midnight Romance in Hagwon [L] S01E16
+http://rteomi.xyz:80/series/0118689/3451067/1350928.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1451517.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1451518.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1451519.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1451520.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1451521.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1451522.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E07
+http://rteomi.xyz:80/series/0118689/3451067/1451523.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E08
+http://rteomi.xyz:80/series/0118689/3451067/1451524.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E09
+http://rteomi.xyz:80/series/0118689/3451067/1451525.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E10
+http://rteomi.xyz:80/series/0118689/3451067/1451526.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E11
+http://rteomi.xyz:80/series/0118689/3451067/1451527.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E12
+http://rteomi.xyz:80/series/0118689/3451067/1451528.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E13
+http://rteomi.xyz:80/series/0118689/3451067/1451529.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E14
+http://rteomi.xyz:80/series/0118689/3451067/1451530.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E15
+http://rteomi.xyz:80/series/0118689/3451067/1453886.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E16
+http://rteomi.xyz:80/series/0118689/3451067/1453887.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E17
+http://rteomi.xyz:80/series/0118689/3451067/1453888.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E18
+http://rteomi.xyz:80/series/0118689/3451067/1453889.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E19
+http://rteomi.xyz:80/series/0118689/3451067/1453890.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E20
+http://rteomi.xyz:80/series/0118689/3451067/1453891.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E21
+http://rteomi.xyz:80/series/0118689/3451067/1453892.mp4
+
+#EXTINF:-1 group-title="Filmes",The Dark Romance (2026) [L] S01E22
+http://rteomi.xyz:80/series/0118689/3451067/1453893.mp4
+
+#EXTINF:-1 group-title="Filmes",Hometown Romance (2026) [L] S01E01
+http://rteomi.xyz:80/series/0118689/3451067/1451578.mp4
+
+#EXTINF:-1 group-title="Filmes",Hometown Romance (2026) [L] S01E02
+http://rteomi.xyz:80/series/0118689/3451067/1453897.mp4
+
+#EXTINF:-1 group-title="Filmes",Hometown Romance (2026) [L] S01E03
+http://rteomi.xyz:80/series/0118689/3451067/1453898.mp4
+
+#EXTINF:-1 group-title="Filmes",Hometown Romance (2026) [L] S01E04
+http://rteomi.xyz:80/series/0118689/3451067/1454098.mp4
+
+#EXTINF:-1 group-title="Filmes",Hometown Romance (2026) [L] S01E05
+http://rteomi.xyz:80/series/0118689/3451067/1454722.mp4
+
+#EXTINF:-1 group-title="Filmes",Hometown Romance (2026) [L] S01E06
+http://rteomi.xyz:80/series/0118689/3451067/1455331.mp4
+
