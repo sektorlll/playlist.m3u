@@ -5,3 +5,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1,Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
+http://rteomi.xyz:80/0118689/3451067/804868
