@@ -8,3 +8,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
 http://rteomi.xyz:80/0118689/3451067/804868
+#EXTINF:-1 group-title="Canais",24H Filmes Drama
+http://rteomi.xyz/live/0118689/3451067/808764.ts
+#EXTINF:-1 group-title="Canais",24H Filmes Lancamentos
+http://rteomi.xyz/live/0118689/3451067/808767.ts
+#EXTINF:-1 group-title="Canais",24H Filmes Romance
+http://rteomi.xyz/live/0118689/3451067/808765.ts
+#EXTINF:-1 group-title="Canais",24H Filmes Suspense
+http://rteomi.xyz/live/0118689/3451067/808766.ts
