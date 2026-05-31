@@ -1,26 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1,Globo Bahia
+#EXTINF:-1 group-title="TV AO VIVO",Band Campinas HD
+http://rteomi.xyz:80/0118689/3451067/1420616
+
+#EXTINF:-1 group-title="TV AO VIVO",Band Campinas SD
+http://rteomi.xyz:80/0118689/3451067/1420617
+
+#EXTINF:-1 group-title="TV Aberta",Globo
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 group-title="TV Aberta",TV Record
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",Globo São Paulo HD
+http://rteomi.xyz:80/0118689/3451067/804905
 
-#EXTINF:-1,Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",Globo São Paulo SD
+http://rteomi.xyz:80/0118689/3451067/804906
 
-#EXTINF:-1,TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",SBT HD
+http://rteomi.xyz:80/0118689/3451067/804868
 
-#EXTINF:-1,SBT São Paulo
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",SBT News SD
+http://rteomi.xyz:80/0118689/3451067/1424247
 
-#EXTINF:-1,Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",Record TV São Paulo HD
+http://rteomi.xyz:80/0118689/3451067/808728
 
-#EXTINF:-1,TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO",Record TV São Paulo SD
+http://rteomi.xyz:80/0118689/3451067/808729
 
+#EXTINF:-1 group-title="TV AO VIVO",RedeTV! HD
+http://rteomi.xyz:80/0118689/3451067/804865
+
+#EXTINF:-1 group-title="TV AO VIVO",RedeTV! SD
+http://rteomi.xyz:80/0118689/3451067/804866
+
+#EXTINF:-1 group-title="TV AO VIVO",HBO 2 HD
+http://rteomi.xyz:80/0118689/3451067/804774
+
+#EXTINF:-1 group-title="TV AO VIVO",HBO Family FHD [H265]
+http://rteomi.xyz:80/0118689/3451067/805431
+
+#EXTINF:-1 group-title="TV AO VIVO",HBO Plus HD
+http://rteomi.xyz:80/0118689/3451067/804783
+
+#EXTINF:-1 group-title="TV AO VIVO",Telecine Action HD
+http://rteomi.xyz:80/0118689/3451067/804795
+
+#EXTINF:-1 group-title="TV AO VIVO",Telecine Pipoca HD
+http://rteomi.xyz:80/0118689/3451067/804804
+
+#EXTINF:-1 group-title="TV AO VIVO",Telecine Premium HD
+http://rteomi.xyz:80/0118689/3451067/804807
 #EXTINF:-1 group-title="TV AO VIVO",RedeTV! HD
 http://rteomi.xyz:80/0118689/3451067/804865
 
