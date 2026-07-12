@@ -167,13 +167,47 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1,TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1,Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1,NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="Brasil: TV ao vivo",RedeTV! HD
-http://rteomi.xyz:80/0118689/3451067/804865
-#EXTINF:-1 group-title="Brasil: TV ao vivo",RedeTV! SD
-http://rteomi.xyz:80/0118689/3451067/804866
+#EXTINF:-1, Canal 1 (199.245)
+http://199.245.234.35:80/99456963/85713984/4026217.ts
+#EXTINF:-1, Canal 2 (199.245)
+http://199.245.234.35:80/99456963/85713984/4026233.ts
+#EXTINF:-1, Canal 3 (199.245)
+http://199.245.234.35:80/99456963/85713984/5500594.ts
+#EXTINF:-1, Canal 4 (31.43.191)
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4835
+#EXTINF:-1, Canal 5 (4brs live)
+http://4brs.me:80/live/2872202941/5456966637/190486.ts
+#EXTINF:-1, Canal 6 (4brs live)
+http://4brs.me:80/live/2872202941/5456966637/5651.ts
+#EXTINF:-1, Canal 7 (4brs live)
+http://4brs.me:80/live/2872202941/5456966637/5948.ts
+#EXTINF:-1, Canal 8 (4brs live)
+http://4brs.me:80/live/2872202941/5456966637/6091.ts
+#EXTINF:-1, Canal 9 (4brs live)
+http://4brs.me:80/live/2872202941/5456966637/6094.ts
+#EXTINF:-1, Canal 10 (4brs live)
+http://4brs.me:80/live/2872202941/5456966637/6095.ts
+#EXTINF:-1, Filme 1 (4brs)
+http://4brs.me:80/movie/2872202941/5456966637/4784873.mp4
+#EXTINF:-1, Filme 2 (4brs)
+http://4brs.me:80/movie/2872202941/5456966637/5184556.mp4
+#EXTINF:-1, Globo Bahia (HLS)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1, Canal 11 (tudop)
+http://tudop.top/live/10203040/10203040/126919.ts
+#EXTINF:-1, Canal 12 (tudop)
+http://tudop.top/live/10203040/10203040/2587978.ts
+#EXTINF:-1, Canal 13 (tudop)
+http://tudop.top/live/A6968392777520/261621377702520/150703.m3u8
+#EXTINF:-1, Filme 3 (tudop)
+http://tudop.top/movie/A6968392777520/261621377702520/4810182.mp4
+#EXTINF:-1, Filme 4 (tudop)
+http://tudop.top/movie/A6968392777520/261621377702520/5109882.mp4
+#EXTINF:-1, Canal AWS (MediaTailor)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1, TV Gramado
+https://isaocorp.cloudecast.com/tvgramado/index.m3u8
+#EXTINF:-1, Yeeaah Brasil
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1, TV7 Finland
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
