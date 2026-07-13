@@ -1,2 +1,2 @@
 # playlist.m3u
-Lista tv
+Lista tv2
